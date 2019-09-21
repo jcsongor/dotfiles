@@ -1,0 +1,6 @@
+[pull]
+	rebase = true
+[core]
+	excludesfile = /home/csongor/.gitignore
+[commit]
+	gpgsign = true
